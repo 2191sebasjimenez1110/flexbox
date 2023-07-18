@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.fondo{
+    margin: 2px 0;
+    padding: 0 20px;
+    display: flex;
+    width: 500px;
+    height: 60px;
+    background: #eeecec;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fondo button{
+    background: #fff;
+    border: none;
+    height: 25px;
+    width: 60px;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenido{
+    background-color: #e4e1e1;
+    display: flex;
+    height: 650px;
+    align-items: center;
+    justify-content: center;
+}
+
+.estilo{
+    width: 400px;
+    height: 150px;
+    background: #bebbbb;
+    padding: 10px;
+    color: #494949;
+}
+
+
+h1{
+    font-size: 19px;
+    color: #111111;
+}
